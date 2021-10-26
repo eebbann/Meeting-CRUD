@@ -1,0 +1,54 @@
+.item {
+	margin: 1rem 0;
+}
+
+.image {
+	width: 100%;
+	height: 16rem;
+	overflow: hidden;
+	border-top-right-radius: 6px;
+	border-top-left-radius: 6px;
+}
+
+.image img {
+	width: 100%;
+	object-fit: cover;
+}
+
+.content {
+	text-align: center;
+	padding: 0.9em 1rem;
+}
+
+.content h3 {
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+	font-size: 1.25rem;
+	color: #2c292b;
+	padding-bottom: 5px;
+}
+.content p{
+	font-family: sans-serif;
+	color:rgb(54, 52, 52)
+}
+
+.actions {
+	padding: 0.3em 1.5rem;
+	text-align: center;
+}
+
+.actions button {
+	font: inherit;
+	cursor: pointer;
+	font-family: fantasy;
+	color: white;
+	border: 1px solid black;
+	background-color: black;
+	padding: 0.5rem 1.5rem;
+	border-radius: 4px;
+}
+
+.actions button:hover,
+.actions button:active {
+	background-color: #2b292a;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24); 
+}
