@@ -25,7 +25,7 @@ npm install
 3. you can edit an add your own firebase API End point into the fetch()
 4. Enter your API in `config.js`
 ```JS
-const API_KEY = 'ENTER YOUR API';
+  fetch( ' API Endpoint');
 ```
 
 
