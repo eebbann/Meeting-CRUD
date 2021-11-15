@@ -28,7 +28,6 @@ npm install
   fetch( ' API Endpoint');
 ```
 
-
 Technologies used 
 Firebase
 react
