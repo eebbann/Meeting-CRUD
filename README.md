@@ -1,5 +1,5 @@
 # Meeting-CRUD
-A React meeting app made for learning purpose which gives individuals access to create meetings of their choices and have it displayed also stored to firebase  
+A React meeting app made for learning purpose, which gives individuals access to create meetings of their choices and have it displayed, also stored to firebase  
 
 ### Prerequisites
 * css3
